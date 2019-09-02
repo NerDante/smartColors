@@ -1,2 +1,8 @@
 # smartColors
-collection of vim colorschemes
+
+colorschemes for [smartVim](https://github.com/NerDante/smartVim)
+
+## List of colorschem
+
+- gruvbox
+- onedark
