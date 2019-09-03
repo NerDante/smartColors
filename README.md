@@ -6,3 +6,4 @@ colorschemes for [smartVim](https://github.com/NerDante/smartVim)
 
 - gruvbox
 - onedark
+- space-vim-dark
